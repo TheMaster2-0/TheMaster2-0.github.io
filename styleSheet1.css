@@ -1,3 +1,7 @@
 ﻿div#text {
 	text-align: center;
 }
+.image {
+	width: 300px;
+	height: 300px;
+}
