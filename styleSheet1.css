@@ -1,4 +1,8 @@
-﻿div#text {
+﻿body {
+	background-color: #00FFFF;
+}
+
+div#text {
 	text-align: center;
 }
 
@@ -15,9 +19,6 @@ div#imageLinks {
 	border: 5px solid #FFF;
 }
 
-.dessertImage {
-	width: 250px;
-	height: 250px;
-}
+
 
   
