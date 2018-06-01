@@ -3,7 +3,9 @@
 }
 
 div#imageLinks {
-
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
 }
 
 .image {
