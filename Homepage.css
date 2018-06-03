@@ -1,7 +1,28 @@
 body{
-	background-color: #ff0303;
-	color: #000000;
+	background-color: #000000;
+	color: #ffffff;
 	text-align: center;
 	font-size: 24px;
 	font-family: Jua; 
+}
+div.red{
+	color:#ff0000;
+}
+div.orange{
+color: #ff7b00
+}
+div.yellow{
+color: #fff700;
+}
+div.green{
+color: #44ff00;
+}
+div.blue{
+color: #0059ff;
+}
+div.purple{
+color: #b300ff;
+}
+div.pink{
+color: #ff00b7;
 }
