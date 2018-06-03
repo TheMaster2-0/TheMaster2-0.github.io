@@ -1,9 +1,18 @@
 .HomepageColumn1{
-	text-align: left;
+	float: left;
+  background: #ccc;
+  padding: 5px 10px;
+  margin-right: 10px;
 }
 .HomepageColumn2{
-	text-align: center;
+float: center;
+  background: #ccc;
+  padding: 5px 10px;
+  margin-right: 10px;
 }
 .HomepageColumn3{
-	text-align: right;
+  float: right;
+  background: #ccc;
+  padding: 5px 10px;
+  margin-right: 10px;
 }
