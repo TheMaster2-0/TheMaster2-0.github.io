@@ -1,9 +1,9 @@
-.HomepageColumn1{
+#HomepageColumn1{
 	text-align: left;
 }
-.HomepageColumn2{
+#HomepageColumn2{
 	text-align: center;
 }
-.HomepageColumn3{
+#HomepageColumn3{
 	text-align: right;
 }
