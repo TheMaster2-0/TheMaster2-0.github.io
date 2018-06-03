@@ -5,24 +5,24 @@ body{
 	font-size: 24px;
 	font-family: Jua; 
 }
-h1.red{
+body.red{
 	color:#ff0000;
 }
-h1.orange{
+body.orange{
 color: #ff7b00
 }
-h1.yellow{
+body.yellow{
 color: #fff700;
 }
-h1.green{
+body.green{
 color: #44ff00;
 }
-h1.blue{
+body.blue{
 color: #0059ff;
 }
-h1.purple{
+body.purple{
 color: #b300ff;
 }
-h1.pink{
+body.pink{
 color: #ff00b7;
 }
