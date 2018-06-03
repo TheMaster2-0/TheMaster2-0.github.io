@@ -1,18 +1,11 @@
-.HomepageColumn1{
-	float: left;
-  background: #ccc;
-  padding: 5px 10px;
-  margin-right: 10px;
+.column {
+    float: left;
+    width: 33.33%;
 }
-.HomepageColumn2{
-float: center;
-  background: #ccc;
-  padding: 5px 10px;
-  margin-right: 10px;
-}
-.HomepageColumn3{
-  float: right;
-  background: #ccc;
-  padding: 5px 10px;
-  margin-right: 10px;
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
 }
