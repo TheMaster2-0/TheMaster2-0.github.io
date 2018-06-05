@@ -4,6 +4,7 @@ body{
 	text-align: center;
 	font-size: 24px;
 	font-family: Jua; 
+	background-image: url(HomepageImages/Cake.png)
 }
 .red{
 	color:#ff0000;
@@ -29,7 +30,4 @@ color: #ff00b7;
 div.white{
 	background-color: #FFFAF0
  
-}
-#bgimage{
-	background-image: url(HomepageImages/Cake.png);
 }
