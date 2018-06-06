@@ -3,7 +3,15 @@ body{
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 24px;
+<<<<<<< HEAD
+	font-family: Jua; 
+	background-image: url(HomepageImages/Cake.png);
+	width: 300px;
+	height: 300px;
+
+=======
 	font-family: Jua;
+>>>>>>> f29ec3bf30eed42e873d268b35d0eade84858a24
 }
 .red{
 	color:#ff0000;
